@@ -1,0 +1,2034 @@
+{
+  "Google Pixel 9": {
+    "phase1": "COMPLETED",
+    "phase2": "COMPLETED",
+    "data": {
+      "phase1_result": {
+        "status": "PASS",
+        "soc_found": "Google Tensor G4",
+        "storage_found": "UFS 3.1",
+        "reason": "Released in India with Tensor G4 and UFS 3.1, not a China-only SKU, and the current retail price on Amazon is under the \u20b970,000 threshold."
+      },
+      "phase1_meta": {
+        "model": "Gemini 3.1 Pro (High)",
+        "timestamp": "2026-10-07T16:49:55+0530"
+      },
+      "phase2_result": {
+        "price_inr": 79999,
+        "soc_exact_model": "Google Tensor G4",
+        "ram_type": "LPDDR5X",
+        "storage_speed": "UFS 3.1",
+        "primary_sensor": "50 MP Samsung ISOCELL GNK, OIS",
+        "auxiliary_lenses": "48 MP Sony IMX858 ultrawide, no telephoto",
+        "gcam_aux_access": "REQUIRES_ROOT",
+        "dontkillmyapp_score_out_of_5": 1,
+        "tasker_survival_without_root": "FAIL",
+        "proximity_sensor_type": "PHYSICAL",
+        "earpiece_loudness_and_mic_clarity": "Earpiece can be loud but leaks sound and is position-sensitive; microphone is generally clear but can sound muffled on speakerphone"
+      },
+      "phase2_meta": {
+        "model": "Gemini 3.1 Pro (High)",
+        "timestamp": "2026-10-07T16:58:49+0530",
+        "passes_used": 1
+      }
+    }
+  },
+  "Google Pixel 9a": {
+    "phase1": "COMPLETED",
+    "phase2": "COMPLETED",
+    "data": {
+      "phase1_result": {
+        "status": "PASS",
+        "soc_found": "Google Tensor G4",
+        "storage_found": "UFS 3.1",
+        "reason": "Commercially available in India at \u20b949,999, featuring the Google Tensor G4 and UFS 3.1 storage, meeting all criteria."
+      },
+      "phase1_meta": {
+        "model": "Gemini 3.1 Pro (High)",
+        "timestamp": "2026-10-07T16:49:38+0530"
+      },
+      "phase2_result": {
+        "price_inr": 39999,
+        "soc_exact_model": "Google Tensor G4 (4 nm)",
+        "ram_type": "LPDDR5X",
+        "storage_speed": "UFS 3.1",
+        "primary_sensor": "48MP, f/1.7, 25mm, dual pixel PDAF, OIS",
+        "auxiliary_lenses": "13MP ultrawide (f/2.2, 16mm, fixed focus)",
+        "gcam_aux_access": "WORKING",
+        "dontkillmyapp_score_out_of_5": 5,
+        "tasker_survival_without_root": "PASS",
+        "proximity_sensor_type": "PHYSICAL",
+        "earpiece_loudness_and_mic_clarity": "Reliable and clear call quality; highly rated mic clarity with AI-driven noise suppression; adequate earpiece loudness reaching ~76.4dB"
+      },
+      "phase2_meta": {
+        "model": "Gemini 3.1 Pro (High)",
+        "timestamp": "2026-10-07T16:58:53+0530",
+        "passes_used": 1
+      }
+    }
+  },
+  "Google Pixel 10": {
+    "phase1": "COMPLETED",
+    "phase2": "PENDING",
+    "data": {
+      "phase1_result": {
+        "status": "FAIL",
+        "soc_found": "Google Tensor G5",
+        "storage_found": "UFS 3.1",
+        "reason": "Current retail price is \u20b974,999, which exceeds the \u20b970,000 limit."
+      },
+      "phase1_meta": {
+        "model": "Gemini 3.1 Pro (High)",
+        "timestamp": "2026-10-07T16:49:41+0530"
+      }
+    }
+  },
+  "Google Pixel 10 Pro": {
+    "phase1": "COMPLETED",
+    "phase2": "PENDING",
+    "data": {
+      "phase1_result": {
+        "status": "FAIL",
+        "soc_found": "Google Tensor G5",
+        "storage_found": "UFS 3.1",
+        "reason": "Current MRP is approximately \u20b994,990, which exceeds the \u20b970,000 limit."
+      },
+      "phase1_meta": {
+        "model": "Gemini 3.1 Pro (High)",
+        "timestamp": "2026-10-07T16:49:39+0530"
+      }
+    }
+  },
+  "Google Pixel 10 Pro XL": {
+    "phase1": "COMPLETED",
+    "phase2": "PENDING",
+    "data": {
+      "phase1_result": {
+        "status": "FAIL",
+        "soc_found": "Google Tensor G5",
+        "storage_found": "UFS 4.0",
+        "reason": "Current MRP is \u20b91,24,999, which exceeds the \u20b970,000 maximum budget limit."
+      },
+      "phase1_meta": {
+        "model": "Gemini 3.1 Pro (High)",
+        "timestamp": "2026-10-07T16:49:39+0530"
+      }
+    }
+  },
+  "Google Pixel 10a": {
+    "phase1": "COMPLETED",
+    "phase2": "COMPLETED",
+    "data": {
+      "phase1_result": {
+        "status": "PASS",
+        "soc_found": "Google Tensor G4",
+        "storage_found": "UFS 3.1",
+        "reason": "Available in India for \u20b955,999, powered by Google Tensor G4 with UFS 3.1 storage."
+      },
+      "phase1_meta": {
+        "model": "Gemini 3.1 Pro (High)",
+        "timestamp": "2026-10-07T16:49:36+0530"
+      },
+      "phase2_result": {
+        "price_inr": 55999,
+        "soc_exact_model": "Google Tensor G4",
+        "ram_type": "LPDDR5X",
+        "storage_speed": "UFS 3.1",
+        "primary_sensor": "Samsung GN8, OIS",
+        "auxiliary_lenses": "13MP ultrawide, no telephoto",
+        "gcam_aux_access": "WORKING",
+        "dontkillmyapp_score_out_of_5": 1,
+        "tasker_survival_without_root": "PASS",
+        "proximity_sensor_type": "PHYSICAL",
+        "earpiece_loudness_and_mic_clarity": "Decent earpiece loudness (midrange focused); microphone clarity is adequate for calls but can struggle in loud environments"
+      },
+      "phase2_meta": {
+        "model": "Gemini 3.1 Pro (High)",
+        "timestamp": "2026-10-07T16:58:49+0530",
+        "passes_used": 1
+      }
+    }
+  },
+  "iQOO 12": {
+    "phase1": "COMPLETED",
+    "phase2": "COMPLETED",
+    "data": {
+      "phase1_result": {
+        "status": "PASS",
+        "soc_found": "Snapdragon 8 Gen 3",
+        "storage_found": "UFS 4.0",
+        "reason": "Officially released in India, meets the SoC (Snapdragon 8 Gen 3) and storage (UFS 4.0) requirements, and is priced below \u20b970,000 INR."
+      },
+      "phase1_meta": {
+        "model": "Gemini 3.1 Pro (High)",
+        "timestamp": "2026-10-07T16:50:05+0530"
+      },
+      "phase2_result": {
+        "price_inr": 48999,
+        "soc_exact_model": "Qualcomm Snapdragon 8 Gen 3",
+        "ram_type": "LPDDR5X",
+        "storage_speed": "UFS 4.0",
+        "primary_sensor": "50MP OmniVision OV50H, OIS",
+        "auxiliary_lenses": "64MP OmniVision OV64B periscope telephoto (OIS), 50MP Samsung JN1 ultrawide",
+        "gcam_aux_access": "WORKING",
+        "dontkillmyapp_score_out_of_5": 5,
+        "tasker_survival_without_root": "FAIL",
+        "proximity_sensor_type": "VIRTUAL",
+        "earpiece_loudness_and_mic_clarity": "Earpiece is very loud and crisp; main microphone clarity is solid for calls, but front-facing video microphone quality is mixed."
+      },
+      "phase2_meta": {
+        "model": "Gemini 3.1 Pro (High)",
+        "timestamp": "2026-10-07T16:58:37+0530",
+        "passes_used": 1
+      }
+    }
+  },
+  "iQOO 15R": {
+    "phase1": "COMPLETED",
+    "phase2": "COMPLETED",
+    "data": {
+      "phase1_result": {
+        "status": "PASS",
+        "soc_found": "Snapdragon 8 Gen 5",
+        "storage_found": "UFS 4.1",
+        "reason": "Commercially available in India (launched Feb 2026) under \u20b970,000 budget with Snapdragon 8 Gen 5 and UFS 4.1 storage."
+      },
+      "phase1_meta": {
+        "model": "Gemini 3.1 Pro (High)",
+        "timestamp": "2026-10-07T16:50:11+0530"
+      },
+      "phase2_result": {
+        "price_inr": 44999,
+        "soc_exact_model": "Snapdragon 8 Gen 5",
+        "ram_type": "LPDDR5X",
+        "storage_speed": "UFS 4.1",
+        "primary_sensor": "50MP Sony LYT-700V, OIS",
+        "auxiliary_lenses": "8MP ultrawide, no telephoto",
+        "gcam_aux_access": "WORKING",
+        "dontkillmyapp_score_out_of_5": 5,
+        "tasker_survival_without_root": "FAIL",
+        "proximity_sensor_type": "VIRTUAL",
+        "earpiece_loudness_and_mic_clarity": "Loud and clear earpiece (functions as secondary speaker), adequate dual-mic setup for calls"
+      },
+      "phase2_meta": {
+        "model": "Gemini 3.1 Pro (High)",
+        "timestamp": "2026-10-07T16:58:36+0530",
+        "passes_used": 1
+      }
+    }
+  },
+  "iQOO Neo 9 Pro": {
+    "phase1": "COMPLETED",
+    "phase2": "COMPLETED",
+    "data": {
+      "phase1_result": {
+        "status": "PASS",
+        "soc_found": "Snapdragon 8 Gen 2",
+        "storage_found": "UFS 4.0",
+        "reason": "The iQOO Neo 9 Pro is officially available in India for under \u20b935,000 and features a Snapdragon 8 Gen 2 processor with UFS 4.0 storage."
+      },
+      "phase1_meta": {
+        "model": "Gemini 3.1 Pro (High)",
+        "timestamp": "2026-10-07T16:50:05+0530"
+      },
+      "phase2_result": {
+        "price_inr": 36999,
+        "soc_exact_model": "Snapdragon 8 Gen 2",
+        "ram_type": "LPDDR5X",
+        "storage_speed": "UFS 4.0",
+        "primary_sensor": "50MP Sony IMX920",
+        "auxiliary_lenses": "8MP ultrawide, no telephoto",
+        "gcam_aux_access": "WORKING",
+        "dontkillmyapp_score_out_of_5": 1,
+        "tasker_survival_without_root": "FAIL",
+        "proximity_sensor_type": "VIRTUAL",
+        "earpiece_loudness_and_mic_clarity": "Adequate stereo earpiece volume but lacks richness, standard microphone clarity"
+      },
+      "phase2_meta": {
+        "model": "Gemini 3.1 Pro (High)",
+        "timestamp": "2026-10-07T16:58:27+0530",
+        "passes_used": 1
+      }
+    }
+  },
+  "iQOO Neo 10": {
+    "phase1": "COMPLETED",
+    "phase2": "COMPLETED",
+    "data": {
+      "phase1_result": {
+        "status": "PASS",
+        "soc_found": "Snapdragon 8s Gen 4",
+        "storage_found": "UFS 3.1",
+        "reason": "The iQOO Neo 10 is commercially available in India for ~\u20b943,999, is powered by the Snapdragon 8s Gen 4 SoC, and its base 128GB variant uses UFS 3.1 storage."
+      },
+      "phase1_meta": {
+        "model": "Gemini 3.1 Pro (High)",
+        "timestamp": "2026-10-07T16:50:38+0530"
+      },
+      "phase2_result": {
+        "price_inr": 31999,
+        "soc_exact_model": "Snapdragon 8s Gen 4",
+        "ram_type": "LPDDR5X",
+        "storage_speed": "UFS 3.1",
+        "primary_sensor": "Sony IMX882, OIS",
+        "auxiliary_lenses": "8MP ultrawide, no telephoto",
+        "gcam_aux_access": "REQUIRES_ROOT",
+        "dontkillmyapp_score_out_of_5": 3,
+        "tasker_survival_without_root": "FAIL",
+        "proximity_sensor_type": "VIRTUAL",
+        "earpiece_loudness_and_mic_clarity": "Good earpiece volume and clear call quality; decent microphone clarity with secondary mic for noise cancellation"
+      },
+      "phase2_meta": {
+        "model": "Gemini 3.1 Pro (High)",
+        "timestamp": "2026-10-07T16:59:58+0530",
+        "passes_used": 1
+      }
+    }
+  },
+  "iQOO Neo 10R": {
+    "phase1": "COMPLETED",
+    "phase2": "COMPLETED",
+    "data": {
+      "phase1_result": {
+        "status": "PASS",
+        "soc_found": "Snapdragon 8s Gen 3",
+        "storage_found": "UFS 4.1",
+        "reason": "Released in India on March 2025, has a Snapdragon SoC, UFS 4.1 storage, and is priced well below the \u20b970,000 limit."
+      },
+      "phase1_meta": {
+        "model": "Gemini 3.1 Pro (High)",
+        "timestamp": "2026-10-07T16:50:03+0530"
+      },
+      "phase2_result": {
+        "price_inr": 29999,
+        "soc_exact_model": "Snapdragon 8s Gen 3",
+        "ram_type": "LPDDR5X",
+        "storage_speed": "UFS 4.1",
+        "primary_sensor": "50MP Sony OIS",
+        "auxiliary_lenses": "8MP ultrawide, no telephoto",
+        "gcam_aux_access": "REQUIRES_ROOT",
+        "dontkillmyapp_score_out_of_5": 3,
+        "tasker_survival_without_root": "FAIL",
+        "proximity_sensor_type": "VIRTUAL",
+        "earpiece_loudness_and_mic_clarity": "Reliable call quality with standard earpiece volume and secondary noise-canceling microphone"
+      },
+      "phase2_meta": {
+        "model": "Gemini 3.1 Pro (High)",
+        "timestamp": "2026-10-07T16:59:51+0530",
+        "passes_used": 1
+      }
+    }
+  },
+  "iQOO Z11 Lite": {
+    "phase1": "COMPLETED",
+    "phase2": "PENDING",
+    "data": {
+      "phase1_result": {
+        "status": "FAIL",
+        "soc_found": "MediaTek Dimensity 6300",
+        "storage_found": "UFS 2.2",
+        "reason": "Device fails the SoC gate (MediaTek instead of Snapdragon/Tensor) and the storage gate (UFS 2.2 instead of UFS 3.1 or 4.0)."
+      },
+      "phase1_meta": {
+        "model": "Gemini 3.1 Pro (High)",
+        "timestamp": "2026-10-07T16:50:26+0530"
+      }
+    }
+  },
+  "iQOO Z11x": {
+    "phase1": "COMPLETED",
+    "phase2": "PENDING",
+    "data": {
+      "phase1_result": {
+        "status": "FAIL",
+        "soc_found": "MediaTek Dimensity 7400-Turbo",
+        "storage_found": "UFS 3.1",
+        "reason": "Device uses a MediaTek SoC, which does not meet the Snapdragon or Google Tensor requirement."
+      },
+      "phase1_meta": {
+        "model": "Gemini 3.1 Pro (High)",
+        "timestamp": "2026-10-07T16:50:38+0530"
+      }
+    }
+  },
+  "Motorola 70 Fusion": {
+    "phase1": "COMPLETED",
+    "phase2": "COMPLETED",
+    "data": {
+      "phase1_result": {
+        "status": "PASS",
+        "soc_found": "Snapdragon 7s Gen 4",
+        "storage_found": "UFS 3.1",
+        "reason": "Released in India under \u20b970k, featuring a qualifying Snapdragon processor and UFS 3.1 storage."
+      },
+      "phase1_meta": {
+        "model": "Gemini 3.1 Pro (High)",
+        "timestamp": "2026-10-07T16:50:37+0530"
+      },
+      "phase2_result": {
+        "price_inr": 26999,
+        "soc_exact_model": "Qualcomm Snapdragon 7s Gen 4",
+        "ram_type": "LPDDR5X",
+        "storage_speed": "UFS 3.1",
+        "primary_sensor": "50MP Sony LYTIA 710, OIS",
+        "auxiliary_lenses": "13MP ultrawide, no telephoto",
+        "gcam_aux_access": "WORKING",
+        "dontkillmyapp_score_out_of_5": 3,
+        "tasker_survival_without_root": "PASS",
+        "proximity_sensor_type": "VIRTUAL",
+        "earpiece_loudness_and_mic_clarity": "Loud stereo earpiece with Dolby Atmos, but mic clarity suffers from overly aggressive background noise cancellation"
+      },
+      "phase2_meta": {
+        "model": "Gemini 3.1 Pro (High)",
+        "timestamp": "2026-10-07T16:59:46+0530",
+        "passes_used": 1
+      }
+    }
+  },
+  "Motorola Edge 50 Ultra": {
+    "phase1": "COMPLETED",
+    "phase2": "COMPLETED",
+    "data": {
+      "phase1_result": {
+        "status": "PASS",
+        "soc_found": "Snapdragon 8s Gen 3",
+        "storage_found": "UFS 4.0",
+        "reason": "Phone is commercially available in India, uses Snapdragon 8s Gen 3, UFS 4.0 storage, and is priced at \u20b959,999 (below \u20b970,000)."
+      },
+      "phase1_meta": {
+        "model": "Gemini 3.1 Pro (High)",
+        "timestamp": "2026-10-07T16:50:27+0530"
+      },
+      "phase2_result": {
+        "price_inr": 44990,
+        "soc_exact_model": "Snapdragon 8s Gen 3",
+        "ram_type": "LPDDR5X",
+        "storage_speed": "UFS 4.0",
+        "primary_sensor": "50MP OmniVision OV50H, f/1.6, OIS",
+        "auxiliary_lenses": "64MP telephoto (3x optical) and 50MP ultrawide",
+        "gcam_aux_access": "WORKING",
+        "dontkillmyapp_score_out_of_5": 3,
+        "tasker_survival_without_root": "FAIL",
+        "proximity_sensor_type": "PHYSICAL",
+        "earpiece_loudness_and_mic_clarity": "Earpiece is very loud with excellent audio quality, but microphone clarity has mixed reviews with reports of robotic or muffled sound due to AI Crystal Talk over-processing."
+      },
+      "phase2_meta": {
+        "model": "Gemini 3.1 Pro (High)",
+        "timestamp": "2026-10-07T17:00:08+0530",
+        "passes_used": 1
+      }
+    }
+  },
+  "Motorola Edge 70": {
+    "phase1": "COMPLETED",
+    "phase2": "COMPLETED",
+    "data": {
+      "phase1_result": {
+        "status": "PASS",
+        "soc_found": "Snapdragon 7 Gen 4",
+        "storage_found": "UFS 3.1",
+        "reason": "Available in India, priced around \u20b930,000, features a Snapdragon 7 Gen 4 SoC and UFS 3.1 storage, meeting all commercial and technical requirements."
+      },
+      "phase1_meta": {
+        "model": "Gemini 3.1 Pro (High)",
+        "timestamp": "2026-10-07T16:50:45+0530"
+      },
+      "phase2_result": {
+        "price_inr": 31499,
+        "soc_exact_model": "Snapdragon 7 Gen 4",
+        "ram_type": "LPDDR5X",
+        "storage_speed": "UFS 3.1",
+        "primary_sensor": "50MP, OIS",
+        "auxiliary_lenses": "50MP ultrawide, no telephoto",
+        "gcam_aux_access": "WORKING",
+        "dontkillmyapp_score_out_of_5": 2,
+        "tasker_survival_without_root": "FAIL",
+        "proximity_sensor_type": "VIRTUAL",
+        "earpiece_loudness_and_mic_clarity": "Satisfactory stereo earpiece loudness, but poor microphone clarity with reports of ambient noise pickup and random cutouts."
+      },
+      "phase2_meta": {
+        "model": "Gemini 3.1 Pro (High)",
+        "timestamp": "2026-10-07T17:00:06+0530",
+        "passes_used": 1
+      }
+    }
+  },
+  "Motorola Edge 70 Fusion": {
+    "phase1": "COMPLETED",
+    "phase2": "COMPLETED",
+    "data": {
+      "phase1_result": {
+        "status": "PASS",
+        "soc_found": "Snapdragon 7s Gen 4",
+        "storage_found": "UFS 3.1",
+        "reason": "Officially released and available in India well under \u20b970k, with required Snapdragon SoC and UFS 3.1 storage."
+      },
+      "phase1_meta": {
+        "model": "Gemini 3.1 Pro (High)",
+        "timestamp": "2026-10-07T16:50:59+0530"
+      },
+      "phase2_result": {
+        "price_inr": 26999,
+        "soc_exact_model": "Snapdragon 7s Gen 4",
+        "ram_type": "LPDDR5X",
+        "storage_speed": "UFS 3.1",
+        "primary_sensor": "50MP Sony LYT-710, OIS",
+        "auxiliary_lenses": "13MP ultrawide/macro, no telephoto",
+        "gcam_aux_access": "WORKING",
+        "dontkillmyapp_score_out_of_5": 3,
+        "tasker_survival_without_root": "PASS",
+        "proximity_sensor_type": "VIRTUAL",
+        "earpiece_loudness_and_mic_clarity": "Satisfactory stereo earpiece loudness; reliable microphone clarity for standard daily calls."
+      },
+      "phase2_meta": {
+        "model": "Gemini 3.1 Pro (High)",
+        "timestamp": "2026-10-07T17:00:27+0530",
+        "passes_used": 1
+      }
+    }
+  },
+  "Motorola Edge 70 Max": {
+    "phase1": "COMPLETED",
+    "phase2": "COMPLETED",
+    "data": {
+      "phase1_result": {
+        "status": "PASS",
+        "soc_found": "Snapdragon 8 Gen 5",
+        "storage_found": "UFS 4.1",
+        "reason": "Meets all criteria: commercially available in India, Snapdragon SoC, UFS > 2.2, and priced under \u20b970k INR."
+      },
+      "phase1_meta": {
+        "model": "Gemini 3.1 Pro (High)",
+        "timestamp": "2026-10-07T16:50:53+0530"
+      },
+      "phase2_result": {
+        "price_inr": 54999,
+        "soc_exact_model": "Snapdragon 8 Gen 5",
+        "ram_type": "LPDDR5X",
+        "storage_speed": "UFS 4.1",
+        "primary_sensor": "Sony LYT-710",
+        "auxiliary_lenses": "8MP ultrawide, no telephoto",
+        "gcam_aux_access": "REQUIRES_ROOT",
+        "dontkillmyapp_score_out_of_5": 3,
+        "tasker_survival_without_root": "FAIL",
+        "proximity_sensor_type": "PHYSICAL",
+        "earpiece_loudness_and_mic_clarity": "Adequate earpiece loudness, clear mic clarity"
+      },
+      "phase2_meta": {
+        "model": "Gemini 3.1 Pro (High)",
+        "timestamp": "2026-10-07T17:01:04+0530",
+        "passes_used": 1
+      }
+    }
+  },
+  "Motorola Edge 70 Pro": {
+    "phase1": "COMPLETED",
+    "phase2": "PENDING",
+    "data": {
+      "phase1_result": {
+        "status": "FAIL",
+        "soc_found": "MediaTek Dimensity 8500 Extreme",
+        "storage_found": "UFS 4.1",
+        "reason": "Equipped with a MediaTek SoC instead of a Snapdragon or Google Tensor processor."
+      },
+      "phase1_meta": {
+        "model": "Gemini 3.1 Pro (High)",
+        "timestamp": "2026-10-07T16:51:12+0530"
+      }
+    }
+  },
+  "Motorola Edge 70 Pro+": {
+    "phase1": "COMPLETED",
+    "phase2": "PENDING",
+    "data": {
+      "phase1_result": {
+        "status": "FAIL",
+        "soc_found": "MediaTek Dimensity 8500 Extreme",
+        "storage_found": "UFS 4.1",
+        "reason": "The device uses a MediaTek chipset, failing the strict requirement for a Snapdragon or Google Tensor SoC."
+      },
+      "phase1_meta": {
+        "model": "Gemini 3.1 Pro (High)",
+        "timestamp": "2026-10-07T16:51:08+0530"
+      }
+    }
+  },
+  "Motorola Moto G77 Power": {
+    "phase1": "COMPLETED",
+    "phase2": "PENDING",
+    "data": {
+      "phase1_result": {
+        "status": "FAIL",
+        "soc_found": "MediaTek Dimensity 6400",
+        "storage_found": "UFS 2.2",
+        "reason": "Fails the SoC and storage requirements due to having a MediaTek processor and UFS 2.2."
+      },
+      "phase1_meta": {
+        "model": "Gemini 3.1 Pro (High)",
+        "timestamp": "2026-10-07T16:51:16+0530"
+      }
+    }
+  },
+  "Motorola Signature": {
+    "phase1": "COMPLETED",
+    "phase2": "COMPLETED",
+    "data": {
+      "phase1_result": {
+        "status": "PASS",
+        "soc_found": "Snapdragon 8 Gen 5",
+        "storage_found": "UFS 4.1",
+        "reason": "Meets all criteria: commercially available in India, uses Snapdragon 8 Gen 5, has UFS 4.1 storage, and base variant starts at Rs. 59,999."
+      },
+      "phase1_meta": {
+        "model": "Gemini 3.1 Pro (High)",
+        "timestamp": "2026-10-07T16:51:11+0530"
+      },
+      "phase2_result": {
+        "price_inr": 54749,
+        "soc_exact_model": "Snapdragon 8 Gen 5",
+        "ram_type": "LPDDR5X",
+        "storage_speed": "UFS 4.1",
+        "primary_sensor": "Sony LYTIA 828, OIS",
+        "auxiliary_lenses": "50MP ultrawide, 50MP telephoto",
+        "gcam_aux_access": "WORKING",
+        "dontkillmyapp_score_out_of_5": 3,
+        "tasker_survival_without_root": "FAIL",
+        "proximity_sensor_type": "PHYSICAL",
+        "earpiece_loudness_and_mic_clarity": "Standard clear mic and adequate loudness (prone to grille debris)"
+      },
+      "phase2_meta": {
+        "model": "Gemini 3.1 Pro (High)",
+        "timestamp": "2026-10-07T17:01:46+0530",
+        "passes_used": 1
+      }
+    }
+  },
+  "Nothing Phone (3)": {
+    "phase1": "COMPLETED",
+    "phase2": "COMPLETED",
+    "data": {
+      "phase1_result": {
+        "status": "PASS",
+        "soc_found": "Snapdragon 8s Gen 4",
+        "storage_found": "UFS 4.0",
+        "reason": "Released in India under \u20b970k with a Snapdragon SoC and UFS 4.0 storage."
+      },
+      "phase1_meta": {
+        "model": "Gemini 3.1 Pro (High)",
+        "timestamp": "2026-10-07T16:51:33+0530"
+      },
+      "phase2_result": {
+        "price_inr": 79999,
+        "soc_exact_model": "Qualcomm Snapdragon 8s Gen 4",
+        "ram_type": "LPDDR5X",
+        "storage_speed": "UFS 4.0",
+        "primary_sensor": "OmniVision OV50H, OIS",
+        "auxiliary_lenses": "50MP periscope telephoto (3x optical), 50MP ultrawide",
+        "gcam_aux_access": "WORKING",
+        "dontkillmyapp_score_out_of_5": 5,
+        "tasker_survival_without_root": "PASS",
+        "proximity_sensor_type": "PHYSICAL",
+        "earpiece_loudness_and_mic_clarity": "Rated 'Very Good' for loudness by GSMArena; hybrid stereo speaker setup uses amplified earpiece and secondary top frame grill for balanced audio"
+      },
+      "phase2_meta": {
+        "model": "Gemini 3.1 Pro (High)",
+        "timestamp": "2026-10-07T17:01:28+0530",
+        "passes_used": 1
+      }
+    }
+  },
+  "Nothing Phone (3a)": {
+    "phase1": "COMPLETED",
+    "phase2": "PENDING",
+    "data": {
+      "phase1_result": {
+        "status": "FAIL",
+        "soc_found": "Snapdragon 7s Gen 3",
+        "storage_found": "UFS 2.2",
+        "reason": "The base variant uses UFS 2.2 storage instead of the required UFS 3.1 or 4.0"
+      },
+      "phase1_meta": {
+        "model": "Gemini 3.1 Pro (High)",
+        "timestamp": "2026-10-07T16:51:48+0530"
+      }
+    }
+  },
+  "Nothing Phone (4a)": {
+    "phase1": "COMPLETED",
+    "phase2": "COMPLETED",
+    "data": {
+      "phase1_result": {
+        "status": "PASS",
+        "soc_found": "Snapdragon 7s Gen 4",
+        "storage_found": "UFS 3.1",
+        "reason": "Commercially available in India, meets SoC and UFS 3.1 requirements, and is priced below the \u20b970,000 limit."
+      },
+      "phase1_meta": {
+        "model": "Gemini 3.1 Pro (High)",
+        "timestamp": "2026-10-07T16:51:51+0530"
+      },
+      "phase2_result": {
+        "price_inr": 31999,
+        "soc_exact_model": "Snapdragon 7s Gen 4",
+        "ram_type": "LPDDR4X",
+        "storage_speed": "UFS 3.1",
+        "primary_sensor": "Samsung ISOCELL GN9, 50MP",
+        "auxiliary_lenses": "50MP periscope telephoto, ultrawide",
+        "gcam_aux_access": "WORKING",
+        "dontkillmyapp_score_out_of_5": 5,
+        "tasker_survival_without_root": "PASS",
+        "proximity_sensor_type": "PHYSICAL",
+        "earpiece_loudness_and_mic_clarity": "High-definition microphones with Clear Voice Technology; dual stereo speakers with sufficient mid-range loudness."
+      },
+      "phase2_meta": {
+        "model": "Gemini 3.1 Pro (High)",
+        "timestamp": "2026-10-07T17:01:37+0530",
+        "passes_used": 1
+      }
+    }
+  },
+  "Nothing Phone (4a) Pro": {
+    "phase1": "COMPLETED",
+    "phase2": "COMPLETED",
+    "data": {
+      "phase1_result": {
+        "status": "PASS",
+        "soc_found": "Snapdragon 7 Gen 4",
+        "storage_found": "UFS 3.1",
+        "reason": "Meets all criteria: commercially available in India, Snapdragon SoC, UFS 3.1 storage, and priced well below 70,000 INR."
+      },
+      "phase1_meta": {
+        "model": "Gemini 3.1 Pro (High)",
+        "timestamp": "2026-10-07T16:51:42+0530"
+      },
+      "phase2_result": {
+        "price_inr": 43979,
+        "soc_exact_model": "Qualcomm Snapdragon 7 Gen 4",
+        "ram_type": "LPDDR5X",
+        "storage_speed": "UFS 3.1",
+        "primary_sensor": "Sony LYT-700C, OIS",
+        "auxiliary_lenses": "50MP periscope telephoto, 8MP ultrawide",
+        "gcam_aux_access": "WORKING",
+        "dontkillmyapp_score_out_of_5": 5,
+        "tasker_survival_without_root": "PASS",
+        "proximity_sensor_type": "VIRTUAL",
+        "earpiece_loudness_and_mic_clarity": "Loud, clear stereo speakers with standard, consistent microphone clarity"
+      },
+      "phase2_meta": {
+        "model": "Gemini 3.1 Pro (High)",
+        "timestamp": "2026-10-07T17:01:42+0530",
+        "passes_used": 1
+      }
+    }
+  },
+  "OnePlus 12R": {
+    "phase1": "COMPLETED",
+    "phase2": "COMPLETED",
+    "data": {
+      "phase1_result": {
+        "status": "PASS",
+        "soc_found": "Snapdragon 8 Gen 2",
+        "storage_found": "UFS 3.1",
+        "reason": "Available in India starting at \u20b939,999 with a Snapdragon 8 Gen 2 and UFS 3.1 storage across all variants."
+      },
+      "phase1_meta": {
+        "model": "Gemini 3.1 Pro (High)",
+        "timestamp": "2026-10-07T16:51:44+0530"
+      },
+      "phase2_result": {
+        "price_inr": 29999,
+        "soc_exact_model": "Snapdragon 8 Gen 2",
+        "ram_type": "LPDDR5X",
+        "storage_speed": "UFS 3.1",
+        "primary_sensor": "Sony IMX890, OIS",
+        "auxiliary_lenses": "8MP ultrawide, 2MP macro, no telephoto",
+        "gcam_aux_access": "WORKING",
+        "dontkillmyapp_score_out_of_5": 5,
+        "tasker_survival_without_root": "FAIL",
+        "proximity_sensor_type": "PHYSICAL",
+        "earpiece_loudness_and_mic_clarity": "Adequate for calls, but earpiece volume is lower and sometimes imbalanced compared to the bottom speaker; microphone clarity is mixed, with some users reporting muffled or heavily noise-processed audio."
+      },
+      "phase2_meta": {
+        "model": "Gemini 3.1 Pro (High)",
+        "timestamp": "2026-10-07T17:01:50+0530",
+        "passes_used": 1
+      }
+    }
+  },
+  "OnePlus 13": {
+    "phase1": "COMPLETED",
+    "phase2": "COMPLETED",
+    "data": {
+      "phase1_result": {
+        "status": "PASS",
+        "soc_found": "Snapdragon 8 Elite",
+        "storage_found": "UFS 4.0",
+        "reason": "Released in India at \u20b969,999 (under \u20b970,000 budget constraint) featuring a Snapdragon 8 Elite SoC and UFS 4.0 storage."
+      },
+      "phase1_meta": {
+        "model": "Gemini 3.1 Pro (High)",
+        "timestamp": "2026-10-07T16:51:48+0530"
+      },
+      "phase2_result": {
+        "price_inr": 69999,
+        "soc_exact_model": "Qualcomm Snapdragon 8 Elite",
+        "ram_type": "LPDDR5X",
+        "storage_speed": "UFS 4.0",
+        "primary_sensor": "50 MP Sony LYT-808, OIS",
+        "auxiliary_lenses": "50 MP Sony LYT-600 periscope telephoto (3x optical zoom), 50 MP Samsung ISOCELL JN5 ultrawide",
+        "gcam_aux_access": "WORKING",
+        "dontkillmyapp_score_out_of_5": 5,
+        "tasker_survival_without_root": "FAIL",
+        "proximity_sensor_type": "VIRTUAL",
+        "earpiece_loudness_and_mic_clarity": "Speaker loudness rated very good in lab tests; microphone clarity is mixed with user reports of muffled audio"
+      },
+      "phase2_meta": {
+        "model": "Gemini 3.1 Pro (High)",
+        "timestamp": "2026-10-07T17:02:29+0530",
+        "passes_used": 1
+      }
+    }
+  },
+  "OnePlus 13R": {
+    "phase1": "COMPLETED",
+    "phase2": "COMPLETED",
+    "data": {
+      "phase1_result": {
+        "status": "PASS",
+        "soc_found": "Snapdragon 8 Gen 3",
+        "storage_found": "UFS 4.0",
+        "reason": "Meets all requirements: commercially available in India since Jan 2025, has Snapdragon 8 Gen 3, UFS 4.0 base storage, and base price is under \u20b970,000."
+      },
+      "phase1_meta": {
+        "model": "Gemini 3.1 Pro (High)",
+        "timestamp": "2026-10-07T16:52:07+0530"
+      },
+      "phase2_result": {
+        "price_inr": 35999,
+        "soc_exact_model": "Qualcomm Snapdragon 8 Gen 3",
+        "ram_type": "LPDDR5X",
+        "storage_speed": "UFS 4.0",
+        "primary_sensor": "50MP Sony LYT-700",
+        "auxiliary_lenses": "50MP telephoto, 8MP ultrawide",
+        "gcam_aux_access": "WORKING",
+        "dontkillmyapp_score_out_of_5": 5,
+        "tasker_survival_without_root": "FAIL",
+        "proximity_sensor_type": "VIRTUAL",
+        "earpiece_loudness_and_mic_clarity": "Exceptionally loud stereo earpiece speaker, though tonal balance differs slightly from the bottom speaker."
+      },
+      "phase2_meta": {
+        "model": "Gemini 3.1 Pro (High)",
+        "timestamp": "2026-10-07T17:02:44+0530",
+        "passes_used": 1
+      }
+    }
+  },
+  "OnePlus 13S": {
+    "phase1": "COMPLETED",
+    "phase2": "COMPLETED",
+    "data": {
+      "phase1_result": {
+        "status": "PASS",
+        "soc_found": "Snapdragon 8 Elite",
+        "storage_found": "UFS 4.0",
+        "reason": "Released in India at \u20b954,999, featuring Snapdragon 8 Elite and UFS 4.0 storage."
+      },
+      "phase1_meta": {
+        "model": "Gemini 3.1 Pro (High)",
+        "timestamp": "2026-10-07T16:52:18+0530"
+      },
+      "phase2_result": {
+        "price_inr": 54999,
+        "soc_exact_model": "Snapdragon 8 Elite",
+        "ram_type": "LPDDR5X",
+        "storage_speed": "UFS 4.0",
+        "primary_sensor": "Sony LYT-700, OIS",
+        "auxiliary_lenses": "50MP telephoto, no ultrawide",
+        "gcam_aux_access": "BLOCKED",
+        "dontkillmyapp_score_out_of_5": 5,
+        "tasker_survival_without_root": "FAIL",
+        "proximity_sensor_type": "PHYSICAL",
+        "earpiece_loudness_and_mic_clarity": "Loud but tinny speakers, muffled microphone clarity"
+      },
+      "phase2_meta": {
+        "model": "Gemini 3.1 Pro (High)",
+        "timestamp": "2026-10-07T17:02:35+0530",
+        "passes_used": 1
+      }
+    }
+  },
+  "OnePlus 15": {
+    "phase1": "COMPLETED",
+    "phase2": "PENDING",
+    "data": {
+      "phase1_result": {
+        "status": "FAIL",
+        "soc_found": "Snapdragon 8 Elite Gen 5",
+        "storage_found": "UFS 4.1",
+        "reason": "Current base variant price of \u20b985,999 exceeds the \u20b970,000 maximum limit."
+      },
+      "phase1_meta": {
+        "model": "Gemini 3.1 Pro (High)",
+        "timestamp": "2026-10-07T16:52:18+0530"
+      }
+    }
+  },
+  "OnePlus 15R": {
+    "phase1": "COMPLETED",
+    "phase2": "COMPLETED",
+    "data": {
+      "phase1_result": {
+        "status": "PASS",
+        "soc_found": "Snapdragon 8 Gen 5",
+        "storage_found": "UFS 4.1",
+        "reason": "Available in India for \u20b959,999 with Snapdragon 8 Gen 5 and UFS 4.1 storage."
+      },
+      "phase1_meta": {
+        "model": "Gemini 3.1 Pro (High)",
+        "timestamp": "2026-10-07T16:52:26+0530"
+      },
+      "phase2_result": {
+        "price_inr": 59999,
+        "soc_exact_model": "Snapdragon 8 Gen 5",
+        "ram_type": "LPDDR5X Ultra",
+        "storage_speed": "UFS 4.1",
+        "primary_sensor": "50MP Sony IMX890, OIS",
+        "auxiliary_lenses": "8MP ultrawide, no telephoto",
+        "gcam_aux_access": "WORKING",
+        "dontkillmyapp_score_out_of_5": 1,
+        "tasker_survival_without_root": "FAIL",
+        "proximity_sensor_type": "VIRTUAL",
+        "earpiece_loudness_and_mic_clarity": "Loud earpiece volume, excellent mic clarity with 3-mic Clear Voice noise cancellation"
+      },
+      "phase2_meta": {
+        "model": "Gemini 3.1 Pro (High)",
+        "timestamp": "2026-10-07T17:02:37+0530",
+        "passes_used": 1
+      }
+    }
+  },
+  "OnePlus N6": {
+    "phase1": "COMPLETED",
+    "phase2": "PENDING",
+    "data": {
+      "phase1_result": {
+        "status": "FAIL",
+        "soc_found": "MediaTek Dimensity 6360 Apex",
+        "storage_found": "Unknown",
+        "reason": "Equipped with a MediaTek SoC instead of the required Snapdragon or Google Tensor."
+      },
+      "phase1_meta": {
+        "model": "Gemini 3.1 Pro (High)",
+        "timestamp": "2026-10-07T16:52:17+0530"
+      }
+    }
+  },
+  "OnePlus Nord 4": {
+    "phase1": "COMPLETED",
+    "phase2": "COMPLETED",
+    "data": {
+      "phase1_result": {
+        "status": "PASS",
+        "soc_found": "Snapdragon 7+ Gen 3",
+        "storage_found": "UFS 3.1",
+        "reason": "Meets all criteria: launched in India, Snapdragon 7+ Gen 3 SoC, UFS 3.1 base storage, and priced at \u20b929,999 (under \u20b970k limit)."
+      },
+      "phase1_meta": {
+        "model": "Gemini 3.1 Pro (High)",
+        "timestamp": "2026-10-07T16:52:20+0530"
+      },
+      "phase2_result": {
+        "price_inr": 29999,
+        "soc_exact_model": "Qualcomm Snapdragon 7+ Gen 3",
+        "ram_type": "LPDDR5X",
+        "storage_speed": "UFS 3.1",
+        "primary_sensor": "50MP Sony LYT-600 (IMX882), OIS",
+        "auxiliary_lenses": "8MP Sony IMX355 ultrawide",
+        "gcam_aux_access": "WORKING",
+        "dontkillmyapp_score_out_of_5": 5,
+        "tasker_survival_without_root": "FAIL",
+        "proximity_sensor_type": "VIRTUAL",
+        "earpiece_loudness_and_mic_clarity": "Adequate loudness; reliable mic performance with isolated user reports of poor clarity"
+      },
+      "phase2_meta": {
+        "model": "Gemini 3.1 Pro (High)",
+        "timestamp": "2026-10-07T17:02:57+0530",
+        "passes_used": 1
+      }
+    }
+  },
+  "OnePlus Nord 5": {
+    "phase1": "COMPLETED",
+    "phase2": "COMPLETED",
+    "data": {
+      "phase1_result": {
+        "status": "PASS",
+        "soc_found": "Snapdragon 8s Gen 3",
+        "storage_found": "UFS 3.1",
+        "reason": "The OnePlus Nord 5 is commercially available in India at approximately \u20b931,999, features a Qualcomm Snapdragon 8s Gen 3 processor, and uses UFS 3.1 storage."
+      },
+      "phase1_meta": {
+        "model": "Gemini 3.1 Pro (High)",
+        "timestamp": "2026-10-07T16:52:47+0530"
+      },
+      "phase2_result": {
+        "price_inr": 31999,
+        "soc_exact_model": "Snapdragon 8s Gen 3",
+        "ram_type": "LPDDR5X",
+        "storage_speed": "UFS 3.1",
+        "primary_sensor": "50MP, OIS",
+        "auxiliary_lenses": "8MP ultrawide",
+        "gcam_aux_access": "WORKING",
+        "dontkillmyapp_score_out_of_5": 5,
+        "tasker_survival_without_root": "FAIL",
+        "proximity_sensor_type": "PHYSICAL",
+        "earpiece_loudness_and_mic_clarity": "Good call quality and clear vocals; earpiece doubles as part of a hybrid stereo speaker system."
+      },
+      "phase2_meta": {
+        "model": "Gemini 3.1 Pro (High)",
+        "timestamp": "2026-10-07T17:03:16+0530",
+        "passes_used": 1
+      }
+    }
+  },
+  "OnePlus Nord 6": {
+    "phase1": "COMPLETED",
+    "phase2": "COMPLETED",
+    "data": {
+      "phase1_result": {
+        "status": "PASS",
+        "soc_found": "Snapdragon 8s Gen 4",
+        "storage_found": "UFS 4.1",
+        "reason": "Released in India under 70k INR with Snapdragon 8-series and UFS 4.1."
+      },
+      "phase1_meta": {
+        "model": "Gemini 3.1 Pro (High)",
+        "timestamp": "2026-10-07T16:52:53+0530"
+      },
+      "phase2_result": {
+        "price_inr": 38999,
+        "soc_exact_model": "Snapdragon 8s Gen 4",
+        "ram_type": "LPDDR5X",
+        "storage_speed": "UFS 4.1",
+        "primary_sensor": "50 MP Sony LYT-600, OIS",
+        "auxiliary_lenses": "8 MP ultrawide, no telephoto",
+        "gcam_aux_access": "REQUIRES_ROOT",
+        "dontkillmyapp_score_out_of_5": 5,
+        "tasker_survival_without_root": "FAIL",
+        "proximity_sensor_type": "VIRTUAL",
+        "earpiece_loudness_and_mic_clarity": "Average loudness, standard clarity; no detailed GSMArena lab measurements available yet"
+      },
+      "phase2_meta": {
+        "model": "Gemini 3.1 Pro (High)",
+        "timestamp": "2026-10-07T17:03:59+0530",
+        "passes_used": 1
+      }
+    }
+  },
+  "OnePlus Nord CE 6": {
+    "phase1": "COMPLETED",
+    "phase2": "COMPLETED",
+    "data": {
+      "phase1_result": {
+        "status": "PASS",
+        "soc_found": "Snapdragon 7s Gen 4",
+        "storage_found": "UFS 3.1",
+        "reason": "Commercially available in India for under \u20b970,000 with a qualifying Snapdragon SoC and UFS 3.1 storage."
+      },
+      "phase1_meta": {
+        "model": "Gemini 3.1 Pro (High)",
+        "timestamp": "2026-10-07T16:52:51+0530"
+      },
+      "phase2_result": {
+        "price_inr": 29999,
+        "soc_exact_model": "Qualcomm Snapdragon 7s Gen 4",
+        "ram_type": "LPDDR4X",
+        "storage_speed": "UFS 3.1",
+        "primary_sensor": "50MP OmniVision OV50D40, OIS",
+        "auxiliary_lenses": "2MP monochrome, no ultrawide",
+        "gcam_aux_access": "BLOCKED / REQUIRES_ROOT",
+        "dontkillmyapp_score_out_of_5": 5,
+        "tasker_survival_without_root": "FAIL",
+        "proximity_sensor_type": "PHYSICAL",
+        "earpiece_loudness_and_mic_clarity": "Earpiece is sufficiently loud and clear for calls, acting as a stereo speaker with minor volume imbalance. Mic clarity is reliable and effective."
+      },
+      "phase2_meta": {
+        "model": "Gemini 3.1 Pro (High)",
+        "timestamp": "2026-10-07T17:03:58+0530",
+        "passes_used": 1
+      }
+    }
+  },
+  "OnePlus Open": {
+    "phase1": "COMPLETED",
+    "phase2": "PENDING",
+    "data": {
+      "phase1_result": {
+        "status": "FAIL",
+        "soc_found": "Snapdragon 8 Gen 2",
+        "storage_found": "UFS 4.0",
+        "reason": "Current retail price significantly exceeds the \u20b970,000 INR limit"
+      },
+      "phase1_meta": {
+        "model": "Gemini 3.1 Pro (High)",
+        "timestamp": "2026-10-07T16:52:42+0530"
+      }
+    }
+  },
+  "Oppo Find X9": {
+    "phase1": "COMPLETED",
+    "phase2": "PENDING",
+    "data": {
+      "phase1_result": {
+        "status": "FAIL",
+        "soc_found": "MediaTek Dimensity 9500",
+        "storage_found": "UFS 4.1",
+        "reason": "Uses MediaTek SoC and base price is \u20b979,999 (over \u20b970k budget limit)"
+      },
+      "phase1_meta": {
+        "model": "Gemini 3.1 Pro (High)",
+        "timestamp": "2026-10-07T16:52:56+0530"
+      }
+    }
+  },
+  "Oppo Find X9 Pro": {
+    "phase1": "COMPLETED",
+    "phase2": "PENDING",
+    "data": {
+      "phase1_result": {
+        "status": "FAIL",
+        "soc_found": "MediaTek Dimensity 9500",
+        "storage_found": "UFS 4.1",
+        "reason": "Fails SoC requirement (MediaTek instead of Snapdragon/Tensor) and exceeds \u20b970,000 maximum budget (MRP is \u20b91,09,999)."
+      },
+      "phase1_meta": {
+        "model": "Gemini 3.1 Pro (High)",
+        "timestamp": "2026-10-07T16:53:08+0530"
+      }
+    }
+  },
+  "Oppo Find X9s": {
+    "phase1": "COMPLETED",
+    "phase2": "PENDING",
+    "data": {
+      "phase1_result": {
+        "status": "FAIL",
+        "soc_found": "MediaTek Dimensity 9500s",
+        "storage_found": "UFS 4.1",
+        "reason": "Equipped with a MediaTek SoC and the base price exceeds \u20b970,000 (\u20b979,999)"
+      },
+      "phase1_meta": {
+        "model": "Gemini 3.1 Pro (High)",
+        "timestamp": "2026-10-07T16:53:10+0530"
+      }
+    }
+  },
+  "Oppo K13 Turbo Pro": {
+    "phase1": "COMPLETED",
+    "phase2": "COMPLETED",
+    "data": {
+      "phase1_result": {
+        "status": "PASS",
+        "soc_found": "Snapdragon 8s Gen 4",
+        "storage_found": "UFS 4.0",
+        "reason": "Released in India, priced around \u20b937,999, and equipped with a qualifying Snapdragon SoC and UFS 4.0 storage."
+      },
+      "phase1_meta": {
+        "model": "Gemini 3.1 Pro (High)",
+        "timestamp": "2026-10-07T16:53:14+0530"
+      },
+      "phase2_result": {
+        "price_inr": 34999,
+        "soc_exact_model": "Snapdragon 8s Gen 4",
+        "ram_type": "LPDDR5X",
+        "storage_speed": "UFS 4.0",
+        "primary_sensor": "50MP, f/1.8, OIS",
+        "auxiliary_lenses": "2MP secondary sensor, no telephoto",
+        "gcam_aux_access": "WORKING",
+        "dontkillmyapp_score_out_of_5": 2,
+        "tasker_survival_without_root": "FAIL (stock OS kills foreground services without root)",
+        "proximity_sensor_type": "VIRTUAL",
+        "earpiece_loudness_and_mic_clarity": "Standard earpiece, adequate mic clarity (no specific XDA acoustic teardown data available)"
+      },
+      "phase2_meta": {
+        "model": "Gemini 3.1 Pro (High)",
+        "timestamp": "2026-10-07T17:03:54+0530",
+        "passes_used": 1
+      }
+    }
+  },
+  "Oppo Reno16": {
+    "phase1": "COMPLETED",
+    "phase2": "COMPLETED",
+    "data": {
+      "phase1_result": {
+        "status": "PASS",
+        "soc_found": "Snapdragon 7 Gen 4",
+        "storage_found": "UFS 3.1",
+        "reason": "Available in India for under \u20b970,000, features a Snapdragon 7 Gen 4 processor, and uses UFS 3.1 storage."
+      },
+      "phase1_meta": {
+        "model": "Gemini 3.1 Pro (High)",
+        "timestamp": "2026-10-07T16:53:24+0530"
+      },
+      "phase2_result": {
+        "price_inr": 61999,
+        "soc_exact_model": "Snapdragon 7 Gen 4",
+        "ram_type": "LPDDR5X",
+        "storage_speed": "UFS 3.1",
+        "primary_sensor": "Sony LYT-600, OIS",
+        "auxiliary_lenses": "50MP ultrawide, 50MP 3.5x telephoto",
+        "gcam_aux_access": "WORKING",
+        "dontkillmyapp_score_out_of_5": 5,
+        "tasker_survival_without_root": "FAIL",
+        "proximity_sensor_type": "PHYSICAL",
+        "earpiece_loudness_and_mic_clarity": "Loud hybrid stereo earpiece; clear dual-mic setup with 'Clear Voice' AI noise reduction"
+      },
+      "phase2_meta": {
+        "model": "Gemini 3.1 Pro (High)",
+        "timestamp": "2026-10-07T17:04:13+0530",
+        "passes_used": 1
+      }
+    }
+  },
+  "POCO F6 Pro": {
+    "phase1": "COMPLETED",
+    "phase2": "PENDING",
+    "data": {
+      "phase1_result": {
+        "status": "FAIL",
+        "soc_found": "Snapdragon 8 Gen 2",
+        "storage_found": "UFS 4.0",
+        "reason": "Not officially released or commercially available in India"
+      },
+      "phase1_meta": {
+        "model": "Gemini 3.1 Pro (High)",
+        "timestamp": "2026-10-07T16:53:25+0530"
+      }
+    }
+  },
+  "POCO F7": {
+    "phase1": "COMPLETED",
+    "phase2": "COMPLETED",
+    "data": {
+      "phase1_result": {
+        "status": "PASS",
+        "soc_found": "Snapdragon 8s Gen 4",
+        "storage_found": "UFS 4.1",
+        "reason": "Released in India, features a Snapdragon SoC, UFS 4.1 storage, and is priced well under \u20b970,000."
+      },
+      "phase1_meta": {
+        "model": "Gemini 3.1 Pro (High)",
+        "timestamp": "2026-10-07T16:53:21+0530"
+      },
+      "phase2_result": {
+        "price_inr": 35999,
+        "soc_exact_model": "Snapdragon 8s Gen 4",
+        "ram_type": "LPDDR5X",
+        "storage_speed": "UFS 4.1",
+        "primary_sensor": "50MP, OIS",
+        "auxiliary_lenses": "8MP ultrawide",
+        "gcam_aux_access": "WORKING",
+        "dontkillmyapp_score_out_of_5": 1,
+        "tasker_survival_without_root": "FAIL",
+        "proximity_sensor_type": "VIRTUAL",
+        "earpiece_loudness_and_mic_clarity": "Amplified earpiece with good volume and clarity; dedicated noise-canceling mic that is clear but susceptible to wind noise outdoors."
+      },
+      "phase2_meta": {
+        "model": "Gemini 3.1 Pro (High)",
+        "timestamp": "2026-10-07T17:04:07+0530",
+        "passes_used": 1
+      }
+    }
+  },
+  "POCO F7 Ultra": {
+    "phase1": "COMPLETED",
+    "phase2": "PENDING",
+    "data": {
+      "phase1_result": {
+        "status": "FAIL",
+        "soc_found": "Snapdragon 8 Elite",
+        "storage_found": "UFS 4.1",
+        "reason": "Not officially released or commercially available in India"
+      },
+      "phase1_meta": {
+        "model": "Gemini 3.1 Pro (High)",
+        "timestamp": "2026-10-07T16:53:51+0530"
+      }
+    }
+  },
+  "POCO M8 Power": {
+    "phase1": "COMPLETED",
+    "phase2": "PENDING",
+    "data": {
+      "phase1_result": {
+        "status": "FAIL",
+        "soc_found": "Snapdragon 4 Gen 4",
+        "storage_found": "UFS 2.2",
+        "reason": "Fails storage requirement as it is equipped with UFS 2.2 instead of UFS 3.1 or 4.0"
+      },
+      "phase1_meta": {
+        "model": "Gemini 3.1 Pro (High)",
+        "timestamp": "2026-10-07T16:53:41+0530"
+      }
+    }
+  },
+  "POCO X8": {
+    "phase1": "COMPLETED",
+    "phase2": "PENDING",
+    "data": {
+      "phase1_result": {
+        "status": "FAIL",
+        "soc_found": "Snapdragon 6s Gen 4",
+        "storage_found": "UFS 2.2",
+        "reason": "The base variant is equipped with UFS 2.2 storage, failing the minimum UFS 3.1 requirement."
+      },
+      "phase1_meta": {
+        "model": "Gemini 3.1 Pro (High)",
+        "timestamp": "2026-10-07T16:54:00+0530"
+      }
+    }
+  },
+  "POCO X8 Power": {
+    "phase1": "COMPLETED",
+    "phase2": "PENDING",
+    "data": {
+      "phase1_result": {
+        "status": "FAIL",
+        "soc_found": "Snapdragon 6 Gen 5",
+        "storage_found": "UFS 2.2",
+        "reason": "The base 128GB variant uses UFS 2.2 storage"
+      },
+      "phase1_meta": {
+        "model": "Gemini 3.1 Pro (High)",
+        "timestamp": "2026-10-07T16:54:01+0530"
+      }
+    }
+  },
+  "POCO X8 Pro Max": {
+    "phase1": "COMPLETED",
+    "phase2": "PENDING",
+    "data": {
+      "phase1_result": {
+        "status": "FAIL",
+        "soc_found": "MediaTek Dimensity 9500s",
+        "storage_found": "UFS 4.1",
+        "reason": "MediaTek SoC is not allowed (Snapdragon or Google Tensor required)"
+      },
+      "phase1_meta": {
+        "model": "Gemini 3.1 Pro (High)",
+        "timestamp": "2026-10-07T16:53:57+0530"
+      }
+    }
+  },
+  "Realme 14 Pro Plus": {
+    "phase1": "COMPLETED",
+    "phase2": "COMPLETED",
+    "data": {
+      "phase1_result": {
+        "status": "PASS",
+        "soc_found": "Snapdragon 7s Gen 3",
+        "storage_found": "UFS 3.1",
+        "reason": "The device is commercially available in India for around \u20b930,000, features a Snapdragon SoC, and is equipped with UFS 3.1 storage."
+      },
+      "phase1_meta": {
+        "model": "Gemini 3.1 Pro (High)",
+        "timestamp": "2026-10-07T16:53:55+0530"
+      },
+      "phase2_result": {
+        "price_inr": 25999,
+        "soc_exact_model": "Snapdragon 7s Gen 3",
+        "ram_type": "LPDDR4X",
+        "storage_speed": "UFS 3.1",
+        "primary_sensor": "50MP Sony IMX896, OIS",
+        "auxiliary_lenses": "50MP periscope telephoto (Sony IMX882, 3x optical, OIS), 8MP ultrawide (Sony IMX355)",
+        "gcam_aux_access": "WORKING",
+        "dontkillmyapp_score_out_of_5": 1,
+        "tasker_survival_without_root": "FAIL",
+        "proximity_sensor_type": "PHYSICAL",
+        "earpiece_loudness_and_mic_clarity": "Earpiece acts as secondary stereo channel; overall loudspeaker quality is mediocre with shallow bass. No specific microphone clarity rating in GSMArena reviews."
+      },
+      "phase2_meta": {
+        "model": "Gemini 3.1 Pro (High)",
+        "timestamp": "2026-10-07T17:04:47+0530",
+        "passes_used": 1
+      }
+    }
+  },
+  "Realme 15 Pro": {
+    "phase1": "COMPLETED",
+    "phase2": "COMPLETED",
+    "data": {
+      "phase1_result": {
+        "status": "PASS",
+        "soc_found": "Snapdragon 7 Gen 4",
+        "storage_found": "UFS 3.1",
+        "reason": "Released in India with Snapdragon 7 Gen 4, UFS 3.1 storage, and priced well below 70,000 INR"
+      },
+      "phase1_meta": {
+        "model": "Gemini 3.1 Pro (High)",
+        "timestamp": "2026-10-07T16:54:18+0530"
+      },
+      "phase2_result": {
+        "price_inr": 31999,
+        "soc_exact_model": "Snapdragon 7 Gen 4",
+        "ram_type": "LPDDR4X",
+        "storage_speed": "UFS 3.1",
+        "primary_sensor": "50MP Sony IMX896, OIS",
+        "auxiliary_lenses": "50MP OmniVision OV50D ultrawide, depth sensor, no telephoto",
+        "gcam_aux_access": "BLOCKED",
+        "dontkillmyapp_score_out_of_5": 3,
+        "tasker_survival_without_root": "FAIL",
+        "proximity_sensor_type": "PHYSICAL",
+        "earpiece_loudness_and_mic_clarity": "Standard earpiece loudness and balanced mic clarity; requires external headset for specialized audio performance."
+      },
+      "phase2_meta": {
+        "model": "Gemini 3.1 Pro (High)",
+        "timestamp": "2026-10-07T17:05:34+0530",
+        "passes_used": 1
+      }
+    }
+  },
+  "Realme GT 6": {
+    "phase1": "COMPLETED",
+    "phase2": "COMPLETED",
+    "data": {
+      "phase1_result": {
+        "status": "PASS",
+        "soc_found": "Snapdragon 8s Gen 3",
+        "storage_found": "UFS 4.0",
+        "reason": "Available in India for under \u20b970,000 featuring a Snapdragon 8s Gen 3 and UFS 4.0."
+      },
+      "phase1_meta": {
+        "model": "Gemini 3.1 Pro (High)",
+        "timestamp": "2026-10-07T16:54:28+0530"
+      },
+      "phase2_result": {
+        "price_inr": 37999,
+        "soc_exact_model": "Snapdragon 8s Gen 3",
+        "ram_type": "LPDDR5X",
+        "storage_speed": "UFS 4.0",
+        "primary_sensor": "Sony LYT-808, OIS",
+        "auxiliary_lenses": "50MP telephoto, 8MP ultrawide",
+        "gcam_aux_access": "WORKING",
+        "dontkillmyapp_score_out_of_5": 3,
+        "tasker_survival_without_root": "PASS",
+        "proximity_sensor_type": "VIRTUAL",
+        "earpiece_loudness_and_mic_clarity": "Loud and clear earpiece, dual-microphone system with good clarity and noise suppression"
+      },
+      "phase2_meta": {
+        "model": "Gemini 3.1 Pro (High)",
+        "timestamp": "2026-10-07T17:05:13+0530",
+        "passes_used": 1
+      }
+    }
+  },
+  "Realme P4 Lite": {
+    "phase1": "COMPLETED",
+    "phase2": "PENDING",
+    "data": {
+      "phase1_result": {
+        "status": "FAIL",
+        "soc_found": "MediaTek Dimensity 6300",
+        "storage_found": "NONE",
+        "reason": "Uses a MediaTek SoC instead of Snapdragon or Google Tensor."
+      },
+      "phase1_meta": {
+        "model": "Gemini 3.1 Pro (High)",
+        "timestamp": "2026-10-07T16:54:31+0530"
+      }
+    }
+  },
+  "Realme P4 Power": {
+    "phase1": "COMPLETED",
+    "phase2": "PENDING",
+    "data": {
+      "phase1_result": {
+        "status": "FAIL",
+        "soc_found": "MediaTek Dimensity 7400 Ultra",
+        "storage_found": "UFS 3.1",
+        "reason": "Equipped with a MediaTek SoC instead of a Snapdragon or Google Tensor processor."
+      },
+      "phase1_meta": {
+        "model": "Gemini 3.1 Pro (High)",
+        "timestamp": "2026-10-07T16:54:38+0530"
+      }
+    }
+  },
+  "Realme P4 Pro": {
+    "phase1": "COMPLETED",
+    "phase2": "COMPLETED",
+    "data": {
+      "phase1_result": {
+        "status": "PASS",
+        "soc_found": "Snapdragon 7 Gen 4",
+        "storage_found": "UFS 3.1",
+        "reason": "Released in India under 70k INR with Snapdragon 7 Gen 4 and UFS 3.1 storage."
+      },
+      "phase1_meta": {
+        "model": "Gemini 3.1 Pro (High)",
+        "timestamp": "2026-10-07T16:54:31+0530"
+      },
+      "phase2_result": {
+        "price_inr": 24999,
+        "soc_exact_model": "Snapdragon 7 Gen 4",
+        "ram_type": "LPDDR4X",
+        "storage_speed": "UFS 3.1",
+        "primary_sensor": "50 MP, f/1.8 (wide), 1/1.56\", OIS, PDAF",
+        "auxiliary_lenses": "8 MP, f/2.2 (ultrawide)",
+        "gcam_aux_access": "WORKING",
+        "dontkillmyapp_score_out_of_5": 4,
+        "tasker_survival_without_root": "FAIL",
+        "proximity_sensor_type": "PHYSICAL",
+        "earpiece_loudness_and_mic_clarity": "Reliable mic clarity with dual-mic noise cancellation; earpiece is loud and clear but sounds tinny and lacks depth."
+      },
+      "phase2_meta": {
+        "model": "Gemini 3.1 Pro (High)",
+        "timestamp": "2026-10-07T17:05:10+0530",
+        "passes_used": 1
+      }
+    }
+  },
+  "Realme P4x": {
+    "phase1": "COMPLETED",
+    "phase2": "PENDING",
+    "data": {
+      "phase1_result": {
+        "status": "FAIL",
+        "soc_found": "MediaTek Dimensity 7400 Ultra 5G",
+        "storage_found": "UFS 3.1",
+        "reason": "Phone is equipped with a MediaTek SoC, which does not meet the Snapdragon or Google Tensor requirement."
+      },
+      "phase1_meta": {
+        "model": "Gemini 3.1 Pro (High)",
+        "timestamp": "2026-10-07T16:54:43+0530"
+      }
+    }
+  },
+  "Samsung Galaxy S23": {
+    "phase1": "COMPLETED",
+    "phase2": "COMPLETED",
+    "data": {
+      "phase1_result": {
+        "status": "PASS",
+        "soc_found": "Snapdragon 8 Gen 2",
+        "storage_found": "UFS 3.1",
+        "reason": "Meets all criteria: commercially available in India, Snapdragon 8 Gen 2 SoC, base 128GB has UFS 3.1, and current price is ~\u20b950,000 INR (under \u20b970,000 limit)."
+      },
+      "phase1_meta": {
+        "model": "Gemini 3.1 Pro (High)",
+        "timestamp": "2026-10-07T16:54:58+0530"
+      },
+      "phase2_result": {
+        "price_inr": 46999,
+        "soc_exact_model": "Snapdragon 8 Gen 2",
+        "ram_type": "LPDDR5X",
+        "storage_speed": "UFS 3.1",
+        "primary_sensor": "50MP ISOCELL GN3, OIS",
+        "auxiliary_lenses": "12MP ultrawide, 10MP telephoto",
+        "gcam_aux_access": "WORKING",
+        "dontkillmyapp_score_out_of_5": 5,
+        "tasker_survival_without_root": "FAIL",
+        "proximity_sensor_type": "PHYSICAL",
+        "earpiece_loudness_and_mic_clarity": "Good loudness rating (hybrid stereo setup); clear microphone quality with minor volume drops in noisy environments"
+      },
+      "phase2_meta": {
+        "model": "Gemini 3.1 Pro (High)",
+        "timestamp": "2026-10-07T17:05:36+0530",
+        "passes_used": 1
+      }
+    }
+  },
+  "Samsung Galaxy S25": {
+    "phase1": "COMPLETED",
+    "phase2": "COMPLETED",
+    "data": {
+      "phase1_result": {
+        "status": "PASS",
+        "soc_found": "Snapdragon 8 Elite",
+        "storage_found": "UFS 3.1",
+        "reason": "Released in India under \u20b970,000, features a Snapdragon SoC, and the base variant uses UFS 3.1."
+      },
+      "phase1_meta": {
+        "model": "Gemini 3.1 Pro (High)",
+        "timestamp": "2026-10-07T16:55:02+0530"
+      },
+      "phase2_result": {
+        "price_inr": 84999,
+        "soc_exact_model": "Qualcomm Snapdragon 8 Elite",
+        "ram_type": "LPDDR5X",
+        "storage_speed": "UFS 3.1",
+        "primary_sensor": "50MP Samsung ISOCELL GN3, OIS",
+        "auxiliary_lenses": "12MP ultrawide, 10MP 3x telephoto",
+        "gcam_aux_access": "WORKING",
+        "dontkillmyapp_score_out_of_5": 1,
+        "tasker_survival_without_root": "FAIL",
+        "proximity_sensor_type": "PHYSICAL",
+        "earpiece_loudness_and_mic_clarity": "90.5 dB peak loudness, clear mic quality with effective noise cancellation, though earpiece can sound sharp"
+      },
+      "phase2_meta": {
+        "model": "Gemini 3.1 Pro (High)",
+        "timestamp": "2026-10-07T17:06:28+0530",
+        "passes_used": 1
+      }
+    }
+  },
+  "Samsung Galaxy S25 Edge": {
+    "phase1": "COMPLETED",
+    "phase2": "COMPLETED",
+    "data": {
+      "phase1_result": {
+        "status": "PASS",
+        "soc_found": "Snapdragon 8 Elite",
+        "storage_found": "UFS 3.1",
+        "reason": "Meets all criteria: officially released and available in India, Snapdragon 8 Elite SoC, base variant uses UFS 3.1, and current retail price during festive sales has dropped below \u20b970,000."
+      },
+      "phase1_meta": {
+        "model": "Gemini 3.1 Pro (High)",
+        "timestamp": "2026-10-07T16:55:24+0530"
+      },
+      "phase2_result": {
+        "price_inr": 66000,
+        "soc_exact_model": "Snapdragon 8 Elite",
+        "ram_type": "LPDDR5X",
+        "storage_speed": "UFS 3.1",
+        "primary_sensor": "200MP ISOCELL HP2",
+        "auxiliary_lenses": "12MP ultrawide, no telephoto",
+        "gcam_aux_access": "REQUIRES_ROOT",
+        "dontkillmyapp_score_out_of_5": 5,
+        "tasker_survival_without_root": "FAIL",
+        "proximity_sensor_type": "PHYSICAL",
+        "earpiece_loudness_and_mic_clarity": "Hybrid stereo setup where earpiece is quieter than bottom speaker; standard microphone clarity with no widespread issues reported"
+      },
+      "phase2_meta": {
+        "model": "Gemini 3.1 Pro (High)",
+        "timestamp": "2026-10-07T17:06:14+0530",
+        "passes_used": 1
+      }
+    }
+  },
+  "Samsung Galaxy S25 FE": {
+    "phase1": "COMPLETED",
+    "phase2": "PENDING",
+    "data": {
+      "phase1_result": {
+        "status": "FAIL",
+        "soc_found": "Exynos 2400",
+        "storage_found": "UFS 4.0",
+        "reason": "Device is powered by an Exynos processor, which does not meet the Snapdragon or Google Tensor requirement."
+      },
+      "phase1_meta": {
+        "model": "Gemini 3.1 Pro (High)",
+        "timestamp": "2026-10-07T16:55:05+0530"
+      }
+    }
+  },
+  "Samsung Galaxy S25 Ultra": {
+    "phase1": "COMPLETED",
+    "phase2": "PENDING",
+    "data": {
+      "phase1_result": {
+        "status": "FAIL",
+        "soc_found": "Snapdragon 8 Elite",
+        "storage_found": "UFS 4.0",
+        "reason": "Current retail price exceeds the maximum limit of \u20b970,000 INR"
+      },
+      "phase1_meta": {
+        "model": "Gemini 3.1 Pro (High)",
+        "timestamp": "2026-10-07T16:55:12+0530"
+      }
+    }
+  },
+  "Samsung Galaxy Z Fold 7": {
+    "phase1": "COMPLETED",
+    "phase2": "PENDING",
+    "data": {
+      "phase1_result": {
+        "status": "FAIL",
+        "soc_found": "Snapdragon 8 Elite",
+        "storage_found": "UFS 4.0",
+        "reason": "Current retail price is approximately \u20b91,74,999, which significantly exceeds the \u20b970,000 budget limit."
+      },
+      "phase1_meta": {
+        "model": "Gemini 3.1 Pro (High)",
+        "timestamp": "2026-10-07T16:55:17+0530"
+      }
+    }
+  },
+  "Samsung Galaxy Z Fold 8": {
+    "phase1": "COMPLETED",
+    "phase2": "PENDING",
+    "data": {
+      "phase1_result": {
+        "status": "FAIL",
+        "soc_found": "Snapdragon 8 Elite Gen 5",
+        "storage_found": "UFS 4.0",
+        "reason": "Current MRP is \u20b91,79,999 which significantly exceeds the \u20b970,000 maximum threshold."
+      },
+      "phase1_meta": {
+        "model": "Gemini 3.1 Pro (High)",
+        "timestamp": "2026-10-07T16:55:36+0530"
+      }
+    }
+  },
+  "Vivo T4 Pro": {
+    "phase1": "COMPLETED",
+    "phase2": "PENDING",
+    "data": {
+      "phase1_result": {
+        "status": "FAIL",
+        "soc_found": "Snapdragon 7 Gen 4",
+        "storage_found": "UFS 2.2",
+        "reason": "Equipped with UFS 2.2 storage which fails the minimum UFS 3.1 requirement"
+      },
+      "phase1_meta": {
+        "model": "Gemini 3.1 Pro (High)",
+        "timestamp": "2026-10-07T16:55:39+0530"
+      }
+    }
+  },
+  "Vivo T5": {
+    "phase1": "COMPLETED",
+    "phase2": "PENDING",
+    "data": {
+      "phase1_result": {
+        "status": "FAIL",
+        "soc_found": "MediaTek Dimensity 7500 Turbo",
+        "storage_found": "UFS 3.1",
+        "reason": "Equipped with a MediaTek processor instead of the required Snapdragon or Google Tensor SoC."
+      },
+      "phase1_meta": {
+        "model": "Gemini 3.1 Pro (High)",
+        "timestamp": "2026-10-07T16:55:44+0530"
+      }
+    }
+  },
+  "Vivo T5 Lite": {
+    "phase1": "COMPLETED",
+    "phase2": "PENDING",
+    "data": {
+      "phase1_result": {
+        "status": "FAIL",
+        "soc_found": "MediaTek Dimensity 6300",
+        "storage_found": "UFS 2.2",
+        "reason": "Fails hard gates: equipped with a MediaTek SoC instead of Snapdragon or Tensor, and uses UFS 2.2 storage."
+      },
+      "phase1_meta": {
+        "model": "Gemini 3.1 Pro (High)",
+        "timestamp": "2026-10-07T16:55:44+0530"
+      }
+    }
+  },
+  "Vivo T5 Pro": {
+    "phase1": "COMPLETED",
+    "phase2": "COMPLETED",
+    "data": {
+      "phase1_result": {
+        "status": "PASS",
+        "soc_found": "Snapdragon 7s Gen 4",
+        "storage_found": "UFS 3.1",
+        "reason": "The Vivo T5 Pro is officially available in India for under \u20b970,000, featuring a Snapdragon 7s Gen 4 and UFS 3.1 storage."
+      },
+      "phase1_meta": {
+        "model": "Gemini 3.1 Pro (High)",
+        "timestamp": "2026-10-07T16:55:48+0530"
+      },
+      "phase2_result": {
+        "price_inr": 41999,
+        "soc_exact_model": "Snapdragon 7s Gen 4",
+        "ram_type": "LPDDR4X",
+        "storage_speed": "UFS 3.1",
+        "primary_sensor": "50MP Sony IMX882, OIS",
+        "auxiliary_lenses": "2MP depth sensor",
+        "gcam_aux_access": "BLOCKED",
+        "dontkillmyapp_score_out_of_5": 5,
+        "tasker_survival_without_root": "FAIL",
+        "proximity_sensor_type": "VIRTUAL",
+        "earpiece_loudness_and_mic_clarity": "Mixed user reports indicating frequent call drops; standard performance overall"
+      },
+      "phase2_meta": {
+        "model": "Gemini 3.1 Pro (High)",
+        "timestamp": "2026-10-07T17:06:48+0530",
+        "passes_used": 1
+      }
+    }
+  },
+  "Vivo T5x": {
+    "phase1": "COMPLETED",
+    "phase2": "PENDING",
+    "data": {
+      "phase1_result": {
+        "status": "FAIL",
+        "soc_found": "MediaTek Dimensity 7400 Turbo",
+        "storage_found": "UFS 3.1",
+        "reason": "MediaTek SoC does not meet the Snapdragon or Google Tensor requirement"
+      },
+      "phase1_meta": {
+        "model": "Gemini 3.1 Pro (High)",
+        "timestamp": "2026-10-07T16:55:58+0530"
+      }
+    }
+  },
+  "Vivo V50": {
+    "phase1": "COMPLETED",
+    "phase2": "PENDING",
+    "data": {
+      "phase1_result": {
+        "status": "FAIL",
+        "soc_found": "Snapdragon 7 Gen 3",
+        "storage_found": "UFS 2.2",
+        "reason": "Base variant is equipped with UFS 2.2 storage"
+      },
+      "phase1_meta": {
+        "model": "Gemini 3.1 Pro (High)",
+        "timestamp": "2026-10-07T16:56:07+0530"
+      }
+    }
+  },
+  "Vivo V70 Elite": {
+    "phase1": "COMPLETED",
+    "phase2": "COMPLETED",
+    "data": {
+      "phase1_result": {
+        "status": "PASS",
+        "soc_found": "Snapdragon 8s Gen 3",
+        "storage_found": "UFS 4.1",
+        "reason": "The phone is officially launched in India with a starting price around \u20b954,999. It features a Snapdragon 8s Gen 3 processor and UFS 4.1 storage, meeting all required criteria."
+      },
+      "phase1_meta": {
+        "model": "Gemini 3.1 Pro (High)",
+        "timestamp": "2026-10-07T16:56:08+0530"
+      },
+      "phase2_result": {
+        "price_inr": 51999,
+        "soc_exact_model": "Qualcomm Snapdragon 8s Gen 3",
+        "ram_type": "LPDDR5X",
+        "storage_speed": "UFS 4.1",
+        "primary_sensor": "50 MP Sony IMX882 / LYT-700V, OIS",
+        "auxiliary_lenses": "50 MP telephoto, 8 MP ultrawide",
+        "gcam_aux_access": "REQUIRES_ROOT",
+        "dontkillmyapp_score_out_of_5": 3,
+        "tasker_survival_without_root": "FAIL",
+        "proximity_sensor_type": "PHYSICAL",
+        "earpiece_loudness_and_mic_clarity": "Loud and clear earpiece, good mic clarity with active noise reduction"
+      },
+      "phase2_meta": {
+        "model": "Gemini 3.1 Pro (High)",
+        "timestamp": "2026-10-07T17:06:40+0530",
+        "passes_used": 1
+      }
+    }
+  },
+  "Xiaomi 14": {
+    "phase1": "COMPLETED",
+    "phase2": "COMPLETED",
+    "data": {
+      "phase1_result": {
+        "status": "PASS",
+        "soc_found": "Snapdragon 8 Gen 3",
+        "storage_found": "UFS 4.0",
+        "reason": "Available in India at \u20b969,999, meeting the sub-\u20b970,000 budget constraint, and features the required Snapdragon 8 Gen 3 SoC with UFS 4.0 storage."
+      },
+      "phase1_meta": {
+        "model": "Gemini 3.1 Pro (High)",
+        "timestamp": "2026-10-07T16:56:15+0530"
+      },
+      "phase2_result": {
+        "price_inr": 59999,
+        "soc_exact_model": "Qualcomm Snapdragon 8 Gen 3",
+        "ram_type": "LPDDR5X",
+        "storage_speed": "UFS 4.0",
+        "primary_sensor": "50 MP, f/1.6, 23mm, OIS",
+        "auxiliary_lenses": "50 MP telephoto (75mm), 50 MP ultrawide (115\u02da FOV)",
+        "gcam_aux_access": "WORKING",
+        "dontkillmyapp_score_out_of_5": 5,
+        "tasker_survival_without_root": "FAIL",
+        "proximity_sensor_type": "PHYSICAL",
+        "earpiece_loudness_and_mic_clarity": "Loud, almost perfectly balanced hybrid stereo setup (earpiece doubles as top speaker) with great quality."
+      },
+      "phase2_meta": {
+        "model": "Gemini 3.1 Pro (High)",
+        "timestamp": "2026-10-07T17:06:43+0530",
+        "passes_used": 1
+      }
+    }
+  },
+  "Xiaomi 14 Civi": {
+    "phase1": "COMPLETED",
+    "phase2": "COMPLETED",
+    "data": {
+      "phase1_result": {
+        "status": "PASS",
+        "soc_found": "Snapdragon 8s Gen 3",
+        "storage_found": "UFS 4.0",
+        "reason": "Commercially available in India starting at \u20b939,999, featuring a Snapdragon 8s Gen 3 and UFS 4.0 storage."
+      },
+      "phase1_meta": {
+        "model": "Gemini 3.1 Pro (High)",
+        "timestamp": "2026-10-07T16:56:23+0530"
+      },
+      "phase2_result": {
+        "price_inr": 44999,
+        "soc_exact_model": "Snapdragon 8s Gen 3",
+        "ram_type": "LPDDR5X",
+        "storage_speed": "UFS 4.0",
+        "primary_sensor": "50MP OmniVision Light Hunter 800 (OVX8000), OIS",
+        "auxiliary_lenses": "12MP ultrawide (OmniVision OV13B), 50MP telephoto (Samsung ISOCELL JN1)",
+        "gcam_aux_access": "WORKING",
+        "dontkillmyapp_score_out_of_5": 5,
+        "tasker_survival_without_root": "FAIL",
+        "proximity_sensor_type": "PHYSICAL",
+        "earpiece_loudness_and_mic_clarity": "Stereo speakers with 'Good' loudness but lacking bass/detail; general audio is loud and crisp for calls."
+      },
+      "phase2_meta": {
+        "model": "Gemini 3.1 Pro (High)",
+        "timestamp": "2026-10-07T17:07:20+0530",
+        "passes_used": 1
+      }
+    }
+  },
+  "Xiaomi 15": {
+    "phase1": "COMPLETED",
+    "phase2": "COMPLETED",
+    "data": {
+      "phase1_result": {
+        "status": "PASS",
+        "soc_found": "Snapdragon 8 Elite",
+        "storage_found": "UFS 4.0",
+        "reason": "Commercially available in India since March 2025, priced under \u20b970,000 (starting ~\u20b964,999), and features a qualifying Snapdragon SoC with UFS 4.0 storage."
+      },
+      "phase1_meta": {
+        "model": "Gemini 3.1 Pro (High)",
+        "timestamp": "2026-10-07T16:56:14+0530"
+      },
+      "phase2_result": {
+        "price_inr": 59999,
+        "soc_exact_model": "Snapdragon 8 Elite",
+        "ram_type": "LPDDR5X",
+        "storage_speed": "UFS 4.0",
+        "primary_sensor": "50MP, f/1.6, 23mm, 1/1.31-inch, OIS",
+        "auxiliary_lenses": "50MP ultrawide, 50MP telephoto (2.6x optical zoom)",
+        "gcam_aux_access": "WORKING",
+        "dontkillmyapp_score_out_of_5": 1,
+        "tasker_survival_without_root": "FAIL",
+        "proximity_sensor_type": "PHYSICAL",
+        "earpiece_loudness_and_mic_clarity": "Plenty loud but slightly constrained earpiece speaker; very good 4-mic array clarity despite isolated HyperOS volume bugs."
+      },
+      "phase2_meta": {
+        "model": "Gemini 3.1 Pro (High)",
+        "timestamp": "2026-10-07T17:07:35+0530",
+        "passes_used": 1
+      }
+    }
+  },
+  "Xiaomi 15 Civi": {
+    "phase1": "COMPLETED",
+    "phase2": "PENDING",
+    "data": {
+      "phase1_result": {
+        "status": "FAIL",
+        "soc_found": "NONE",
+        "storage_found": "NONE",
+        "reason": "Phone launch was cancelled in India and is not commercially available."
+      },
+      "phase1_meta": {
+        "model": "Gemini 3.1 Pro (High)",
+        "timestamp": "2026-10-07T16:56:22+0530"
+      }
+    }
+  },
+  "Xiaomi Redmi Note 15 Pro+": {
+    "phase1": "COMPLETED",
+    "phase2": "PENDING",
+    "data": {
+      "phase1_result": {
+        "status": "FAIL",
+        "soc_found": "Snapdragon 7s Gen 4",
+        "storage_found": "UFS 2.2",
+        "reason": "Base variant is equipped with UFS 2.2 storage"
+      },
+      "phase1_meta": {
+        "model": "Gemini 3.1 Pro (High)",
+        "timestamp": "2026-10-07T16:56:40+0530"
+      }
+    }
+  },
+  "Xiaomi Redmi Note 17 Pro": {
+    "phase1": "COMPLETED",
+    "phase2": "PENDING",
+    "data": {
+      "phase1_result": {
+        "status": "FAIL",
+        "soc_found": "Snapdragon 6s Gen 4",
+        "storage_found": "UFS 2.2",
+        "reason": "Base variant is equipped with UFS 2.2 storage instead of UFS 3.1 or 4.0"
+      },
+      "phase1_meta": {
+        "model": "Gemini 3.1 Pro (High)",
+        "timestamp": "2026-10-07T16:56:40+0530"
+      }
+    }
+  },
+  "Xiaomi Redmi Note 17 Pro Max": {
+    "phase1": "COMPLETED",
+    "phase2": "PENDING",
+    "data": {
+      "phase1_result": {
+        "status": "FAIL",
+        "soc_found": "Snapdragon 6 Gen 5",
+        "storage_found": "UFS 4.1",
+        "reason": "Device is available in India for \u20b949,999 with UFS 4.1, but features a Snapdragon 6 Gen 5 SoC which falls below the acceptable 7-series threshold."
+      },
+      "phase1_meta": {
+        "model": "Gemini 3.1 Pro (High)",
+        "timestamp": "2026-10-07T16:57:15+0530"
+      }
+    }
+  },
+  "_meta": {
+    "triage": {
+      "shortlisted": [
+        {
+          "phone": "Xiaomi 14",
+          "score": 92
+        },
+        {
+          "phone": "OnePlus 13",
+          "score": 90
+        },
+        {
+          "phone": "Xiaomi 14 Civi",
+          "score": 89
+        },
+        {
+          "phone": "iQOO 12",
+          "score": 87
+        },
+        {
+          "phone": "Samsung Galaxy S23",
+          "score": 86
+        },
+        {
+          "phone": "Nothing Phone (4a) Pro",
+          "score": 83
+        },
+        {
+          "phone": "Oppo Reno16",
+          "score": 83
+        },
+        {
+          "phone": "OnePlus 13R",
+          "score": 77
+        },
+        {
+          "phone": "Nothing Phone (4a)",
+          "score": 69
+        }
+      ],
+      "excluded": [],
+      "pruned": {
+        "OnePlus 13S": "GCam access is BLOCKED or REQUIRES ROOT (Camera API restriction)"
+      }
+    }
+  }
+}

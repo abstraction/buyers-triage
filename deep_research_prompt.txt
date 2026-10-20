@@ -1,0 +1,19 @@
+CURRENT DATE: September 12, 2026
+
+Run a deep, exhaustive sweep of the Indian smartphone market (2025/2026 releases, plus late 2024 flagships) to generate a seed list of premium power-user phones. 
+
+TARGET BUDGET: 
+Current official MRP between ₹40,000 and ₹70,000 INR.
+
+HARD EXCLUSIONS (Violating these = Instant Disqualification):
+1. No MediaTek or Exynos processors. Must be a modern Qualcomm Snapdragon (8-series, or high-end 7-series like 7+ Gen 3 / 7s Gen 4), with the exclusive exception of Google Tensor chips (G4/G5) which are permitted strictly for Google Pixel devices.
+2. No slow storage. Exclude any phone using UFS 2.2 or older. Must be UFS 3.1 or 4.0.
+3. No Budget/Entry Brands. Exclude Infinix, Tecno, itel, Lava, etc.
+
+WHAT TO PRIORITIZE:
+- Flagship Camera Hardware: Hunt for phones featuring flagship-grade, large-format primary sensors capable of exceptional low-light performance. Hardware Optical Image Stabilization (OIS) is strictly required on the primary lens. A dedicated physical optical telephoto lens (true optical zoom, not just digital crop) is highly preferred.
+- Fluidity & Speed: Prioritize phones with exceptionally smooth UI animations and fast daily-use speed (we are prioritizing UI navigation speed and fluidity, NOT gaming benchmarks). 
+- Brand Coverage: Look closely at OnePlus (e.g., 15R, 13R), Nothing (Phone 3, 4a), Motorola (Edge 50/60 series), Google Pixel, Samsung (Base S-series), and POCO/Xiaomi.
+
+OUTPUT FORMAT:
+Give me a clean, bulleted list of only the Phone Names that survive all these filters. Do not include extra specs in the output, just the exact names formatted like: * OnePlus 15R

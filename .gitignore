@@ -1,0 +1,40 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.venv/
+env/
+venv/
+ENV/
+
+# Operating System & Editor Artifacts
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.swo
+*.log
+
+# SpecStory History and CLI Configs
+.specstory/
+
+# Temporary, Backup, and Scratch Files
+*.bak
+*.bak*
+*.orig
+*.rej
+*.diff
+*.patch
+*.hh
+restore.py
+test_*.py
+check_reno.py
+verify_scores.py
+config/phone_discarded.txt
+config/phones_disqualified.txt
+
+# Research and market analysis reports
+research-1/
+reports/
